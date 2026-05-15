@@ -1,0 +1,15 @@
+{
+  "_README": "Replace this file with your actual GoogleService-Info.plist downloaded from Firebase Console.",
+  "steps": [
+    "1. Go to https://console.firebase.google.com",
+    "2. Create a new project named 'AgriSmart'",
+    "3. Add an iOS app with bundle ID: com.agrismart.app",
+    "4. Download GoogleService-Info.plist",
+    "5. Drag it into Xcode at AgriSmart/ (root, alongside AgriSmartApp.swift)",
+    "6. Ensure 'Copy items if needed' is checked",
+    "7. Enable Authentication (Email/Password) in Firebase Console",
+    "8. Enable Cloud Firestore in Firebase Console",
+    "9. Enable Firebase Storage in Firebase Console",
+    "10. Enable Firebase Cloud Messaging for push notifications"
+  ]
+}
